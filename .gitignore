@@ -1,0 +1,22 @@
+# built application files
+*.apk
+*.ap_
+*.iml
+
+
+*Content/
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+.idea/
+
+# Local configuration file (sdk path, etc)
+
+proguard_logs/
