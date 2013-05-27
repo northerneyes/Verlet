@@ -1,4 +1,4 @@
-package org.verletandroid.VerletObjects;
+package com.northerneyes.VerletObjects;
 
 import org.verletandroid.VerletCore.Composite;
 import org.verletandroid.VerletCore.Contraints.AngleConstraint;

@@ -1,4 +1,4 @@
-package org.verletandroid.VerletObjects;
+package com.northerneyes.VerletObjects;
 
 import android.graphics.Color;
 import android.graphics.Paint;
