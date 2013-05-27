@@ -1,10 +1,10 @@
-Verlet
+Verlet for Android
 ======
 
-This is example of a simple Verlet (pronounced 'ver-ley') physics engine.
+This is example of a simple Verlet  physics engine for android  based on verlet-js https://github.com/subprotocol/verlet-js.
 This engine often used to calculate the trajectories of particles in models of molecular dynamics and computer games. Popularity among game developers engine was in 2000 with the release of the game Hitman: Codename 47.
 
-Originally based on verlet-js https://github.com/subprotocol/verlet-js
+
 
 Launching examples
 ======
