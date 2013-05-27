@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "samples">
+        <item>SHAPES</item>
+        <item>CLOTH</item>
+        <item>SPIDERWEB</item>
+        <item>Tree</item>
+    </string-array>
+</resources>
